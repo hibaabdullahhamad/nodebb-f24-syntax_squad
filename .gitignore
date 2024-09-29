@@ -5,7 +5,7 @@ npm-debug.log
 node_modules/*
 
 # Unignore the specific file
-!node_modules/nodebb-plugin-composer-default/static/templates/partials/composer-title-container.tpl
+!node_modules/nodebb-plugin-composer-default/static/templates/partials
 sftp-config.json
 config.json
 jsconfig.json
